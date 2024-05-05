@@ -2,16 +2,16 @@ import React from 'react'
 import { DocsThemeConfig } from 'nextra-theme-docs'
 
 const config: DocsThemeConfig = {
-  logo: <span>My Project</span>,
+  logo: <span>SlugPath</span>,
   project: {
-    link: 'https://github.com/shuding/nextra-docs-template',
+    link: 'https://github.com/SlugPath/SlugPath',
   },
   chat: {
-    link: 'https://discord.com',
+    link: 'https://discord.gg/VSAyPc8u96',
   },
-  docsRepositoryBase: 'https://github.com/shuding/nextra-docs-template',
+  docsRepositoryBase: 'https://github.com/fercevik729/slugpath-docs/tree/main',
   footer: {
-    text: 'Nextra Docs Template',
+    text: 'SlugPath Docs',
   },
 }
 
